@@ -10,3 +10,7 @@ They are stored as Key Instances and in the files sk.txt and pk.txt.
 All relevant method calls are in the main method. Depending on the desired use some lines must be commented out (i.e. only decrypting cipher.txt).
 
 
+Solution by:
+- Luca Fluri
+- Alejandro Garcia
+- Philipp Alder
